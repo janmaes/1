@@ -1,0 +1,131 @@
+main{
+  display: grid;
+  grid-template-columns:
+    20vw 20vw 20vw 20vw 20vw;
+
+  background-color: lightgrey;
+}
+
+main :hover{
+  opacity: 1;
+  -webkit-transform: scale(0.92);
+        -ms-transform: scale(0.92);
+        transform: scale(0.92);
+}
+
+div{
+  font-family: 'Nunito', sans-serif;
+  font-size: 18pt;
+}
+
+.a{
+  height: 20vw;
+  background-size: contain;
+  position: relative;
+  opacity: 0.6;
+}
+
+
+.b{
+  position:absolute;
+  top: 20px;
+  left: 20px;
+  padding: 6px;
+}
+
+
+.rood{
+  background-color: red;
+  color: white;
+}
+.groen{
+  background-color: lightgreen;
+  color:black;
+}
+.lichtblauw{
+  background-color: lightblue;
+  color:black;
+}
+.geel{
+  background-color: yellow;
+  color:black;
+}
+.zwart{
+  background-color: black;
+  color: white;
+}
+.donkerrood{
+  background-color: darkred;
+  color: white;
+}
+.donkerblauw{
+  background-color: darkblue;
+  color:white;
+}
+
+.facebook{
+  background-image: url(https://facebookbrand.com/wp-content/themes/fb-branding/prj-fb-branding/assets/images/fb-art.png);
+  }
+
+
+.instagram{
+  background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2000px-Instagram_logo_2016.svg.png);
+
+}
+
+.youtube{
+  background-image:url(https://icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png);
+}
+
+.gmail{
+  background-image:url(https://image.flaticon.com/icons/png/512/281/281769.png);
+}
+
+.agenda{
+  background-image: url(https://assets.materialup.com/uploads/dc9d7b5c-0575-45d9-89b9-d1027a76c50f/calendar.png);
+  background-size: 20vw 20vw;
+}
+
+.pinterest{
+  background-image: url(https://seeklogo.com/images/P/pinterest-badge-logo-82C89A5E42-seeklogo.com.png);
+}
+
+.sporza{
+  background-image: url(https://nbocdn.akamaized.net/Assets/Images_Upload/2012/05/22/fksporza.jpg?maxheight=460&maxwidth=638);
+  background-size:20vw 20vw;
+}
+
+.netflix{
+  background-image: url(http://d.christiantoday.com/en/full/35360/netflix.png?w=380&h=380);
+}
+
+.nmbs{
+  background-image: url(http://is3.mzstatic.com/image/thumb/Purple122/v4/5f/3f/43/5f3f4314-5c80-9089-c4bc-698fcfe7084b/source/1200x630bb.jpg);
+}
+
+.delijn{
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/De_Lijn.svg/1200px-De_Lijn.svg.png);
+}
+
+.imdb{
+  background-image: url(http://ia.media-imdb.com/images/G/01/imdb/images/logos/imdb_fb_logo-1730868325._CB514892123_.png);
+}
+
+.destandaard{
+  background-image:url(https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0017/5476/brand.gif?itok=bi_0Om3G);
+}
+
+.trakt{
+  background-image:url(https://mediastax.files.wordpress.com/2015/12/trakt-logo1.png?w=300&h=300);
+}
+
+.digitap{
+  background-image:url(http://www.mediarte.be/sites/default/files/imagecache/facebookimage/img/2013/11/logo_artesis_plantijn_hogeschool_antwerpen_0.jpg?v=2);
+}
+
+.reddit{
+  background-image:url(http://i.imgur.com/sdO8tAw.png)}
+
+  .mail{
+    background-image:url(https://pbs.twimg.com/profile_images/876910193467998208/aL0gJ9_Y.jpg);
+  }
