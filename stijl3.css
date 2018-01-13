@@ -1,9 +1,13 @@
+body{
+  background-color: black;
+}
+
 main{
   display: grid;
   grid-template-columns:
     20vw 20vw 20vw 20vw 20vw;
 
-  background-color: lightgrey;
+
 }
 
 main :hover{
@@ -16,6 +20,15 @@ main :hover{
 div{
   font-family: 'Nunito', sans-serif;
   font-size: 18pt;
+  background-color: lightgrey;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.favo{
+  padding-top: 5vw;
+  font-size: 3em;
+
 }
 
 .a{
@@ -23,8 +36,8 @@ div{
   background-size: contain;
   position: relative;
   opacity: 0.6;
-  border: 3px solid #3c3c3c;
-  border-radius: 30px;
+  border: 6px solid #3c3c3c;
+  border-radius: 70px;
   background-repeat: no-repeat;
 }
 
@@ -34,6 +47,7 @@ div{
   top: 20px;
   left: 20px;
   padding: 6px;
+  border-radius: 7px;
 }
 
 
