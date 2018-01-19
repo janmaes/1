@@ -146,3 +146,35 @@ div{
   .mail{
     background-image:url(https://pbs.twimg.com/profile_images/876910193467998208/aL0gJ9_Y.jpg);
   }
+
+  .twitch{
+    background-image: url(https://static-cdn.jtvnw.net/jtv_user_pictures/twitch-profile_image-8a8c5be2e3b64a9a-300x300.png);
+  }
+.genius{
+  background-image: url(https://images.genius.com/e3f28a8c15ae3b11ac9cc7aaef0396c1.512x512x1.jpg);
+}
+
+
+.voetbal{
+  background-image: url(http://cdn.mysitemyway.com/etc-mysitemyway/icons/legacy-previews/icons/black-inlay-steel-squares-icons-sports-hobbies/042711-black-inlay-steel-square-icon-sports-hobbies-ball-soccer.png);
+}
+
+.digitap{
+  background-image: url(https://pbs.twimg.com/profile_images/378800000542961862/5c7765d0b82c5ab3831554e4dcaee38b_400x400.png);
+}
+
+.zooqle{
+  background-image: url(https://pbs.twimg.com/profile_images/764165343141040128/3bcsIsJv.jpg);
+}
+
+.yelo{
+  background-image: url(http://is1.mzstatic.com/image/thumb/Purple118/v4/c8/bb/ae/c8bbae5b-fed4-b15b-4f7f-1ece57f00035/source/1200x630bb.jpg);
+}
+
+.vrt{
+  background-image: url(https://pbs.twimg.com/profile_images/881867439801348096/rFH2-tJs.jpg);
+}
+
+.github{
+  background-image: url(https://image.flaticon.com/icons/png/512/25/25231.png);
+}
